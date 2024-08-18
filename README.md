@@ -2,13 +2,12 @@
 ### Animals submitted to SD and HD had the dendritic cells derived from the bone marrow collected and maintained in culture.
 
 Here you will find the processed files of two biological replicates from each treatment condition
-  * xxx
-  * xxxxx
-  * xxxxxxx
-  * xxxxxxx
+  * *.narrowPeak: are significant peaks called with MACS2 (q 0.01)
+  * *.bw: reads pileup in bigwig format
+  * HD-SD-diffbind_deseq2.txt: list of differential accessible regions from HD-SD merged samples obtained using DiffBind package.
     
-Reference genome: mm10
-Raw data can be obtained upon request.
+- Reference genome: mm10
+- Raw data can be obtained upon request.
 
 > Contact: niels@icb.usp.br <br>
 > Supported by São Paulo Research Foundation
