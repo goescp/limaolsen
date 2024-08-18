@@ -7,6 +7,8 @@ Here you will find:
 * xxxxx
 * xxxxxxx
 * xxxxxxx
+  
+Raw data can be obtained upon request.
     
 > Contact: niels@icb.usp.br <br>
 > Supported by São Paulo Research Foundation
