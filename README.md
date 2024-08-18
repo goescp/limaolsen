@@ -5,6 +5,7 @@ Here you will find the processed files of two biological replicates from each tr
   * *.narrowPeak: are significant peaks called with MACS2 (q 0.01)
   * *.bw: reads pileup in bigwig format
   * HD-SD-diffbind_deseq2.txt: list of differential accessible regions from HD-SD merged samples obtained using DiffBind package.
+  * peakAnnot.txt: list of annotated peaks on gene promoters.
     
     - Reference genome: mm10
 
