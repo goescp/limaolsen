@@ -1,16 +1,14 @@
 # ATAC-seq data
 ### Animals submitted to SD and HD had the dendritic cells derived from the bone marrow collected and maintained in culture.
 
-Here you will find raw and processed files in two distinct directories:
-- Raw data
-  * .fastq files of two biological replicates from each treatment condition 
-- Processed data
+Here you will find the processed files of two biological replicates from each treatment condition
   * xxx
   * xxxxx
   * xxxxxxx
   * xxxxxxx
     
 Reference genome: mm10
+Raw data can be obtained upon request.
 
 > Contact: niels@icb.usp.br <br>
 > Supported by São Paulo Research Foundation
