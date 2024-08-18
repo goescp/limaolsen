@@ -1,5 +1,0 @@
-SampleID;Factor;Replicate;bamReads;Peaks;PeakCaller;Tissue;Condition
-SD1;SD;2;/home/cpurcell/niels/SD2_sorted.dupsmarked.bam;/home/cpurcell/niels/SD2_nodups_peaks.narrowPeak;narrow;DC;SD
-SD2;SD;3;/home/cpurcell/niels/SD3_sorted.dupsmarked.bam;/home/cpurcell/niels/SD3_nodups_peaks.narrowPeak;narrow;DC;SD
-HFD1;HD;1;/home/cpurcell/niels/HD1_sorted.dupsmarked.bam;/home/cpurcell/niels/HD1_nodups_peaks.narrowPeak;narrow;DC;HD
-HFD2;HD;3;/home/cpurcell/niels/HD3_sorted.dupsmarked.bam;/home/cpurcell/niels/HD3_nodups_peaks.narrowPeak;narrow;DC;HD
